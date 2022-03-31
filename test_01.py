@@ -24,3 +24,5 @@ print(hw,"My name is",name)
 x=10
 print(x*5)
 
+x=25
+print(x)
