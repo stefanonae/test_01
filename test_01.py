@@ -18,3 +18,9 @@ name = "Stefano Bruzzo-Gallardo"
 print (name)
 
 print(hw,"My name is",name)
+
+# Some math
+
+x=10
+print(x*5)
+
